@@ -8,6 +8,7 @@ Recursos para una rápida introducción al análisis de datos con Python.
 
 + [Descargá e instalá Anaconda](https://www.anaconda.com/distribution/#download-section) (Python 3, ignorar Python 2)
 + Abrí la terminal e instalá las siguientes librerías:
+    + **jupyter_contrib_nbextensions**: `conda install -c conda-forge jupyter_contrib_nbextensions`
     + **scikit-learn**: `conda install scikit-learn`
 + Abrí y ejecutá celda por celda el [Jupyter de introducción rápida a Python](1-sintaxis-python.ipynb). La idea es que te detengas en las explicaciones, veas los ejemplos y resuelvas los breves ejercicios propuestos.
 
