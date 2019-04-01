@@ -24,17 +24,17 @@ Recursos para una rápida introducción al análisis de datos con Python.
 
 ### 2. Exploración de datos
 
-+ [Jupyter de Datos de Panel][datos-panel.ipynb]
-+ [Jupyter de Series de Tiempo][series-tiempo.ipynb]
++ [Jupyter de Datos de Panel](datos-panel.ipynb)
++ [Jupyter de Series de Tiempo](series-tiempo.ipynb)
 
 ### 3. Mapas y georreferenciación
 
-+ [Jupyter de Mapas][mapas.ipynb] (TBD)
-+ [Jupyter de Georreferenciación][georreferenciacion.ipynb] (TBD)
++ [Jupyter de Mapas](mapas.ipynb) (TBD)
++ [Jupyter de Georreferenciación](georreferenciacion.ipynb) (TBD)
 
 ### 4. Presentación de resultados
 
-+ [Jupyter de Informes][informes.ipynb] (TBD)
++ [Jupyter de Informes](informes.ipynb) (TBD)
 
 ## Objetivos del repositorio
 
