@@ -1,6 +1,6 @@
-# analisis-datos-python
-Recursos para una rápida introducción al análisis de datos con Python.
+# Análisis de datos en Python
 
+Recursos para una rápida introducción al análisis de datos con Python.
 
 ## Secciones
 
