@@ -4,7 +4,7 @@ Recursos para una rápida introducción al análisis de datos con Python.
 
 ## Secciones
 
-### 1. Introducción a python
+### 1. Introducción a Python
 
 + **[Descargá e instalá Anaconda](https://www.anaconda.com/distribution/#download-section)** (Python 3, ignorar Python 2)
 * **Instalá una librería con extensiones para Jupyter**
@@ -20,7 +20,7 @@ Recursos para una rápida introducción al análisis de datos con Python.
     + Andá a la carpeta donde instalaste `Anaconda`
     + Click en `Jupyter Notebook`
     + Navegá el árbol de carpetas hasta encontrar la carpeta del repositorio que descargaste
-    + **Abrí y ejecutá celda por celda el [Jupyter de introducción rápida a Python](sintaxis-python.ipynb)**. La idea es que te detengas en las explicaciones, veas los ejemplos y resuelvas los breves ejercicios propuestos.
+    + **Abrí y ejecutá celda por celda el [Jupyter de introducción rápida a Python](python-introduccion.ipynb)**. La idea es que te detengas en las explicaciones, veas los ejemplos y resuelvas los breves ejercicios propuestos.
 
 ### 2. Exploración de datos
 
