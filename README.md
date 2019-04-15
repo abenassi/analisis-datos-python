@@ -26,6 +26,7 @@ Recursos para una rápida introducción al análisis de datos con Python.
 
 + [Jupyter de Exploración General](exploracion-general.ipynb) (instalar nuevas librerías desde `Anaconda Prompt`)
     * `pip install geopandas`
+    * `pip install mapclassify`
     * `pip install descartes`
 + [Jupyter de Series de Tiempo](series-tiempo.ipynb)
 + [Jupyter de Datos de Panel](datos-panel.ipynb) (TBD)
